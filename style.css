@@ -28,6 +28,10 @@ nav {
   margin: auto;
 }
 
+.portfolioo {
+display: flex;
+}
+
 /* Containers */
 div {
   background-color: #eae2b7;
